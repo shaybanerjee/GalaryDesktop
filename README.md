@@ -1,4 +1,4 @@
-<h1> Assignment 3 (Code found inside a3_starter_code/ directory)</h1> 
+<h1> Project Description: </h1> 
 A interactive application that allows users to load, display images in a dynamic layout with their metadata.
 A rating system is in place to allow users to rate, and filter images. 
 
